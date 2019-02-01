@@ -15,7 +15,7 @@ El proyecto fue escrito en C# + Selenium
  
  2) Para que la aplicación funcione es necesario tener un chat donde se enviarán los links de la api click to chat.
  
- ![Chat Links](https://drive.google.com/file/d/1iGNZF6bQpX10mdjnlXQsC2kYPe45YpyC/view)
+[![Chat Link](https://github.com/Jhezem/Whatsapp-Web-Automation/blob/master/image.png)
  
  <b>driver.FindElement(By.XPath("/html/body/div[1]/div/div/div[2]/div/div[2]/div/label/input")).SendKeys("Nombre del chat" + OpenQA.Selenium.Keys.Enter);</b>
  
