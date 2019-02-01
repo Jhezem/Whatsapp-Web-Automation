@@ -1,0 +1,17 @@
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WppAutoMat.exe.config
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WppAutoMat.exe
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WppAutoMat.pdb
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WebDriver.dll
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WebDriver.Support.dll
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WebDriver.xml
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\bin\Debug\WebDriver.Support.xml
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.csprojAssemblyReference.cache
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.Form1.resources
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.Properties.Resources.resources
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.csproj.GenerateResource.cache
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.csproj.CoreCompileInputs.cache
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.csproj.CopyComplete
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.exe
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.pdb
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.Form2.resources
+C:\Users\Operaciones\source\repos\WppAutoMat\WppAutoMat\obj\Debug\WppAutoMat.Form3.resources
